@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Pham Quy Hai",
+      "authorEmail": "me@haipq.com",
+      "authorUrl": "https://haipq.com"
+    }
+  }
+}
